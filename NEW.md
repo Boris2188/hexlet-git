@@ -1,0 +1,1 @@
+команда rm -Rvf <directory>
